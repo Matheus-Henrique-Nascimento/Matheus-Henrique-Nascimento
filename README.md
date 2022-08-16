@@ -1,8 +1,8 @@
 ## Boas-novas, me chamo Matheus Henrique Nascimento.
 
-Sou formando em Letras [Língua Portuguesa] na Escola de Filosofia, Letras e Ciências Humanas da Universidade Federal de São Paulo.
+Formando em Letras [Língua Portuguesa] na Escola de Filosofia, Letras e Ciências Humanas da Universidade Federal de São Paulo.
 
-Sou, também, um desenvolvedor Front-End em formação e profissionalmente interessado em aplicações voltadas à interação com o usuário e Design Gráfico e Digital.
+Desenvolvedor Front-End em formação: profissionalmente interessado em aplicações voltadas à construção de uma interação entre o usuário e a máquina via um conteúdo gráfico semanticamente motivado e a própria modelagem desse conteúdo digital.
 
 ##
 
