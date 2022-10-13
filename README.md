@@ -2,7 +2,7 @@
 #### Desenvolvedor Front-end.
 Eu faço uma licenciatura em letras na Universidade Federal de São Paulo e também faço um tecnólogo em análise e desenvolvimento de sistemas na Universidade Anhembi-Morumbi.
 
-Habilidades: HTML, CSS, SASS, JAVASCRIPT, REACT [Essa ainda estou aprendendo], GIT.
+Habilidades: HTML, CSS, SASS, JAVASCRIPT, REACT [Essa ainda estou aprendendo] e GIT.
 
 - Esse é o projeto pessoal que estou trabalhando no meu tempo livre: https://matheus-henrique-nascimento.github.io/Everywhere-Books/
 - Gosto de fotografia, literatura e cinema.
