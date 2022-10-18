@@ -1,12 +1,11 @@
 ### Olá, meu nome é Matheus Henrique Nascimento.
-#### Desenvolvedor Front-end.
+#### Eu sou um desenvolvedor Front-end.
 Eu faço uma licenciatura em letras na Universidade Federal de São Paulo e também pretendo iniciar um bacharelado em ciência da computação na Universidade Anhembi-Morumbi nesse início de 2023.
 
 Habilidades: HTML, CSS, SASS, Javascript, React [React ainda estou aprendendo] e GIT.<br>Design: Figma, Ui & Ux, Design Patterns & Atomic Design.
 
 - Esse é o projeto pessoal que estou trabalhando no meu tempo livre: https://matheus-henrique-nascimento.github.io/Everywhere-Books/
 - Gosto de fotografia, literatura e cinema.
-- Prefiro trabalho remoto.
 - Essas são minhas redes sociais: https://www.instagram.com/math_hen_nas/ e https://www.linkedin.com/in/hellleno/
 
 ##
