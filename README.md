@@ -4,7 +4,7 @@ Eu faço uma licenciatura em letras na Universidade Federal de São Paulo e tamb
 
 Habilidades: HTML, CSS, SASS, Javascript, React, React Native e GIT.<br>Design: Figma, Ui & Ux, Design Patterns & Atomic Design.
 
-- Esse é o projeto pessoal que estou trabalhando no meu tempo livre: https://matheus-henrique-nascimento.github.io/Everywhere-Books/
+- Esse é o projeto pessoal que estou trabalhando no meu tempo livre: https://matheus-henrique-nascimento.github.io/everywhere-cameras/
 - Gosto de fotografia, literatura e cinema.
 - Essas são minhas redes sociais: https://www.instagram.com/math_hen_nas/ e https://www.linkedin.com/in/hellleno/
 
